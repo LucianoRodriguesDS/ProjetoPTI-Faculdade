@@ -1,5 +1,7 @@
 # ProjetoPTI-Faculdade
 Esse Projeto foi estipulado pela faculdade pra entrega de final de semestre , nele tem banco de dados, modelagem em UML e Python
+
+
 create database fazendaBd
 default character set utf8
 default collate utf8_general_ci;
